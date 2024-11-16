@@ -6,7 +6,7 @@ Este proyecto utiliza simulación para ayudar a una librería a determinar el n�
 
 La librería tiene la siguiente información:
 
-- **Costo por almanaque**: Entre $1.50 y $2.00 (generado aleatoriamente).
+- **Costo por almanaque**: Entre $1.50 y $2.00 (generado aleatoriamente usando el método de la transformada inversa).
 - **Precio de venta**: $4.50 por almanaque.
 - **Reembolso por almanaques no vendidos**: $0.75 por unidad.
 - **Distribución de la demanda**:
